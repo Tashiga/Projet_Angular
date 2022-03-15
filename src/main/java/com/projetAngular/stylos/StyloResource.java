@@ -13,7 +13,6 @@ import java.util.List;
 public class StyloResource {
     private final StyloService styloService;
 
-
     public StyloResource(StyloService styloService) {
         this.styloService = styloService;
     }

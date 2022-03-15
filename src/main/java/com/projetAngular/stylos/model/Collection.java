@@ -6,5 +6,5 @@ public enum Collection {
     Grip, Pro, Poisson_Avril, Green_Vibes, Astro, Noel, Messages, Animaux, LOVE, Solidaire, Etudiants,
     Enseignants, Les_Super_Papas, Les_Super_Mamans, Fete_Des_Meres, Seventies, Sakura, Les_Commercants,
     Baby_Shower, Merci, Spider_Man, Mariage_2021, Japon, Inspiration_Toile_De_Jouy, Nouvel_An_Chinois,
-    I_Love_You, Mots_Amours, Saint_Patrick, Ladies;
+    I_Love_You, Mots_Amours, Saint_Patrick, Ladies, Senat;
 }
